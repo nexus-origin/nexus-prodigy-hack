@@ -1,4 +1,4 @@
-# Nexus Origon Prodigy Hack
+# Nexis Origon Prodigy Hack
 
 ![Nexus Origon](https://pxi-fusion.com/images/nexus-logo.png)
 
