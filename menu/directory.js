@@ -1,7 +1,5 @@
 const scriptUrls = [
-    "https://raw.githubusercontent.com/yourusername/repo/main/script1.js",
-    "https://raw.githubusercontent.com/yourusername/repo/main/script2.js",
-    "https://raw.githubusercontent.com/yourusername/repo/main/script3.js"
+    //Place things here later
 ];
 
 async function loadAndRunScripts() {
